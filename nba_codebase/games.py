@@ -168,6 +168,20 @@ for team in master_raw_team_dict.keys():
 # # Code to test against true Game Logs to make sure working properly.
 
 
+# ______________________________________________________________________________________
+# Code to print features and other experiementation for the progress report
+
+# print "this is for team: %s on this day: %s" % (team, curr_game_date)
+# features = master_running_team_dict[team][curr_game_date]["Stats"]
+# print "features from Stats entry"
+# for key, val in features.items():
+#     print "%s,%s" % (key, val)
+
+
+# ______________________________________________________________________________________
+
+
+
 # _____________________________________________________________________________________________
 
 # SAMPLE MACHINE LEARNING
@@ -210,7 +224,7 @@ svm_accuracy = []
 nb_accuracy  = []
 rf_accuracy = []
 
-numpy.random.shuffle(data_matrix)
+# numpy.random.shuffle(data_matrix)
 for i in range(10, 70):
     threshold = i * len(master_running_team_dict)
     # numpy.random.shuffle(data_matrix)
@@ -243,16 +257,18 @@ for i in range(10, 70):
     nb_accuracy.append((cmnb[0,0] + cmnb[1,1])*1.0/numpy.sum(cmnb))
     rf_accuracy.append((cmrf[0,0] + cmrf[1,1])*1.0/numpy.sum(cmrf))
 
-# CREATE PLOTS FOR PROGRESS REPORT
+# CREATE PLOTS FOR PROGRESS REPORT - uncomment to generate the specific plot
 
 # PLOT 1 - The Win percentages for each team over time
 # for team in master_raw_team_dict.keys():
 #     win_percentages = []
 #     for game_index in range(2,83):
 #         win_percentages.append(master_running_team_dict[team][master_num_date_map[team][game_index]]["Stats"]["W%"])
-#
+
 #     plt.plot(range(2, 83),win_percentages, label=team)
 #     plt.legend()
+# plt.ylabel('win percentage')
+# plt.xlabel('time, number of games')
 # plt.show()
 # PLOT 2 - Accuracies for each classifier using different threshold values for num games
 
@@ -271,14 +287,14 @@ print 'The Max accuracies are:', 'SVM: ', max(svm_accuracy), ' Naive Bayes:', ma
 
 
 ### PLOT 3  - Accuracices for random classifiers
-lower_bound = 10 * len(master_running_team_dict)
-upper_bound = 70 * len(master_running_team_dict)
-plt.plot(xrange(lower_bound, upper_bound, len(master_running_team_dict)),svm_accuracy, label="svm")
-plt.legend()
-plt.plot(xrange(lower_bound , upper_bound, len(master_running_team_dict)),nb_accuracy, label="naive bayes")
-plt.legend()
-plt.plot(xrange(lower_bound, upper_bound, len(master_running_team_dict)),rf_accuracy, label="random forest")
-plt.legend()
-plt.ylabel('classification accuracy')
-plt.xlabel('# of random games sampled')
-plt.show()
+# lower_bound = 10 * len(master_running_team_dict)
+# upper_bound = 70 * len(master_running_team_dict)
+# plt.plot(xrange(lower_bound, upper_bound, len(master_running_team_dict)),svm_accuracy, label="svm")
+# plt.legend()
+# plt.plot(xrange(lower_bound , upper_bound, len(master_running_team_dict)),nb_accuracy, label="naive bayes")
+# plt.legend()
+# plt.plot(xrange(lower_bound, upper_bound, len(master_running_team_dict)),rf_accuracy, label="random forest")
+# plt.legend()
+# plt.ylabel('classification accuracy')
+# plt.xlabel('# of random games sampled')
+# plt.show()
