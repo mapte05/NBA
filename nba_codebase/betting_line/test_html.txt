@@ -1,0 +1,3376 @@
+<!DOCTYPE html>
+<head>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+    
+    <meta name="msapplication-config" content="none"/>
+
+    
+
+<meta http-equiv="X-UA-Compatible" value="IE=9">
+
+    <title>Today&#39;s NBA Basketball Previews, Scores and Matchups at Covers. The leader in Basketball Scores, Odds</title>
+
+    <meta NAME="description" content="Today&#39;s NBA Scores and Matchups at Covers. All the NBA basketball scores and betting information you need.">
+    
+    <meta name="keywords" content="nba, nba scores, nba matchups, basketball, nba games, nba results, nba logros , escore nba, resultados nba">    
+
+    <meta name="robots" content="index,follow">    
+
+
+    <link type="image/ico" rel="icon" href="http://images.covers.com/covers/favicon_new.ico" />
+
+    
+    <link type="text/css" rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/base/jquery-ui.css" />
+    <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.0/jquery.qtip.min.css" />
+
+    
+    <link type="text/css" rel="stylesheet" href="//images.covers.com/styles/shared/base.css" />
+    <link type="text/css" rel="stylesheet" href="//images.covers.com/styles/base/SiteBase.css" />
+    <style type="text/css">
+        @import url("//images.covers.com/styles/covers/fonts.css");
+    </style>
+    
+
+    <link href="http://headers.covers.com/content/css/headers.css" rel="stylesheet">
+
+    
+    <link rel="stylesheet" href="https://accounts2.covers.com/Content/ClientSite.css" />
+
+    <link href="/Sports/Content/ClientScoreboardCarousel.css" rel="stylesheet" />
+    
+    
+    
+    
+
+
+    
+    <script type="text/javascript" src="http://headers.covers.com/Scripts/AllExternal.js"></script>
+
+    
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="//www.covers.com/Sports/Scripts/jquery.cookie.js"> </script>
+
+    
+    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/mvc/4.0/jquery.validate.unobtrusive.min.js"></script>
+    
+ 
+    <script type="text/javascript" src="/Sports/Scripts/api.js"></script>
+
+    <!-- QTip plugin to deal with tool tips -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.1/jquery.qtip.min.js"></script>
+
+    <script type="text/javascript" src="//images.covers.com/scripts/base/SiteBase.js"></script>
+
+ 
+    <script src="/Sports/js/app?v=8PaltvLkqfYqX2BrWytALlpVG-frreRxfFMnH2MudG81"></script>
+
+
+    <link href="/Sports/css/owl?v=nzEOJq2GqVphBylMwu2EOvrADUFcb3wSP-N4QZwuoJs1" rel="stylesheet"/>
+
+    <script src="/Sports/js/owl?v=bF8ItN7xyB3Nxc6aXtbeaK8yWa0dMQcPKulvtWN0Ulo1"></script>
+  
+
+    
+   
+
+    <link href='http://www.covers.com/sports/nba/matchups' rel="canonical"/>
+
+    
+    <script src="/Sports/js/matchup?v=Stn7kEf4UILx0EL8LO0_q_95Cw9QdmdAsu3Pk6mV0Ng1"></script>
+
+    
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.css"/>
+    <link href="/Sports/css/site?v=cpuVrwdSFJIU0gzsOvJDGkPRfdZSzPsBow01ACPj3Ec1" rel="stylesheet"/>
+
+ 
+
+    <script type="text/javascript">
+        CMG_SPORTS.init({ hostUrl: 'http://www.covers.com' });
+    </script>
+
+</head>
+<body>
+    <!--Required for Universal Analytics Ecommerce Tracking-->
+    <script type="text/javascript">
+        var dataLayer = [];
+    </script>
+
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9GXHN"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script type="text/javascript">
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start': new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })
+        (window, document, 'script', 'dataLayer', 'GTM-W9GXHN');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Headers -->
+    
+<div class="covers covers-CoversHeader">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+            
+                    <!-- Main Logo -->
+                    <div class="col-md-3 col-sm-4 col-xs-4 covers-u-noLeft">
+                        <div id="covers-CoversHeader-mainLogo">
+                                <a href="http://www.covers.com">
+                                <img  alt="Covers - Sports Betting and Odds" class="covers-u-noLeft covers-CoversHeader-img-mainLogo col-md-12 col-sm-11 col-xs-11" src="//headers.covers.com/content/images/covers-logo.png"></a>
+                        </div>
+                    </div>
+
+                    
+
+                    <div class="covers-CoversHeader-socialContainer">
+                        <div class="col-md-1 col-sm-1 col-xs-1 col-md-offset-4 col-sm-offset-1 covers-u-noRight">
+                            <div class="covers-CoversHeader-socialIconContainer">
+                                <a target="_blank" href="http://www.facebook.com/pages/Coverscom-Sports-Betting/243164289569?">
+                                    <img class="covers-CoversHeader-socialIcon" src="//headers.covers.com/content/images/fb.png"></a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-1 col-sm-1 col-xs-1 covers-u-noRight covers-u-left25" >
+                            <div class="covers-CoversHeader-socialIconContainer">
+                                <a target="_blank" href="http://twitter.com/Covers">
+                                    <img class="covers-CoversHeader-socialIcon" src="//headers.covers.com/content/images/twitter.png"></a>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+
+                <div id="covers-CoversHeader-wheretoplayId"></div>
+
+                <div id="covers-CoversHeader-accountsId"></div>
+
+                <!-- Search -->
+                <form autocomplete="off" class="covers-CoversHeader-searchContainer covers-CoversHeader-searchBox searchbox">
+                    <input type="text" placeholder="Search Covers..." class="covers-CoversHeader-search--focus searchbox-input" size="20" required />
+                    <input type="image" src="//headers.covers.com/content/images/search_x.png" alt="submit">
+                    <span class="covers-CoversHeader-searchboxIcon ">
+                    </span>
+                </form>
+           
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div class="covers covers-CoversNav container-fluid">
+    <div class="container">
+        <ul class="nav nav-pills">
+
+            
+
+
+<li>
+    <a class="covers-coversNav-coversC--link" href="//www.covers.com">
+        <img src="//images.covers.com/covers/logos/covers-c.png" class="covers-coversNav-coversC">
+    </a>
+<li>
+<li class="dropdown covers-CoversNav-hamDrop">
+    <a href="#">
+        <img style="visibility: hidden;" src="//headers.covers.com/content/images/ham.png">
+    </a>
+
+    <ul class="dropdown-menu" id="covers-coversNav-hamDrop">
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Sports</a>
+            <ul id="covers-coversNav-hamScoredropSub">
+                <li><a href="http://www.covers.com/">Home</a></li>
+                <li><a href="http://www.covers.com/sports/nfl">NFL</a></li>
+                <li><a href="http://www.covers.com/sports/mlb">MLB</a></li>
+                <li><a href="http://www.covers.com/sports/nba">NBA</a></li>
+                <li><a href="http://www.covers.com/sports/nhl">NHL</a></li>
+                <li><a href="http://www.covers.com/sports/ncaaf">NCAAF</a></li>
+                <li><a href="http://www.covers.com/sports/ncaab">NCAAB</a></li>
+                <li><a href="http://www.covers.com/sports/cfl/matchups">CFL</a></li>
+                <li><a href="http://www.covers.com/sports/afl/matchups">AFL</a></li>
+                <li><a href="http://www.covers.com/sports/wnba/matchups">WNBA</a></li>
+                <li><a href="/soccer/soccer_main.aspx">Soccer</a></li>
+                <li><br><br><br></li>
+            </ul>
+        </li>
+
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Experts Picks</a>
+            <ul id="covers-coversNav-hamExpertsdropSub">
+                <li><a href="https://experts.covers.com">Home</a></li>
+                <li><a href="https://experts.covers.com/picks">All Picks</a></li>
+                <li><a href="https://experts.covers.com/subscriptions">Subscriptions</a></li>
+                <li><a href="https://experts.covers.com/handicappers">Handicappers</a></li>
+                
+                <li><a href="https://experts.covers.com/account">My Experts</a></li>
+                <li><a href="https://experts.covers.com/guarantee">Guarantee</a></li>
+                <li><a href="https://experts.covers.com/RecentBlogs/">Chalk Talk Blog</a></li>
+                <li>
+                    <a href="https://experts.covers.com/ArticlesArchive">Expert's Edge</a>
+                </li>
+                <li><a href="https://experts.covers.com/help">Help</a></li>
+                <li><br><br><br></li>
+            </ul>
+        </li>
+
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Contests</a>
+            <ul id="covers-coversNav-hamContestsdropSub">
+                <li><a href="http://contests.covers.com">Home</a></li>
+                <li><a href="http://contests.covers.com/KingOfCovers">King of Covers</a></li>
+                <li><a href="http://contests.covers.com/Survivor">Streak Survivor</a></li>
+                <li><a href="http://contests.covers.com/UltimateRace">Ultimate Race</a></li>
+                <li><a href="http://contests.covers.com/OfficePools">Office Pools</a></li>
+                <li><a href="http://contests.covers.com/mycontests">My Contests</a></li>
+            </ul>
+        </li>
+
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Consensus</a>
+            <ul id="covers-coversNav-hamConsensusdropSub">
+                <li><a href="http://contests.covers.com/Consensus">Consensus Picks</a></li>
+                <li><a href="http://contests.covers.com/Consensus/CommunityLeaders">Community Leaders: League</a></li>
+                <li><a href="http://contests.covers.com/Consensus/CommunityLeadersByLeagueTeam">Community Leaders: Team</a></li>
+                <li><a href="http://contests.covers.com/Consensus/PublicMoney">Public Money</a></li>
+                <li><a href="http://contests.covers.com/Consensus/Faq">FAQ</a></li>
+            </ul>
+        </li>
+
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Scores</a>
+            <ul id="covers-coversNav-hamScoredropSub2">
+                <li><a href="http://www.covers.com/sports/nfl/matchups">NFL</a></li>
+                <li><a href="http://www.covers.com/sports/mlb/matchups">MLB</a></li>
+                <li><a href="http://www.covers.com/sports/nba/matchups">NBA</a></li>
+                <li><a href="http://www.covers.com/sports/nhl/matchups">NHL</a></li>
+                <li><a href="http://www.covers.com/sports/ncaaf/matchups">NCAAF</a></li>
+                <li><a href="http://www.covers.com/sports/ncaab/matchups">NCAAB</a></li>
+                <li><a href="http://www.covers.com/sports/cfl/matchups">CFL</a></li>
+                <li><a href="http://www.covers.com/sports/afl/matchups">AFL</a></li>
+                <li><a href="http://www.covers.com/sports/wnba/matchups">WNBA</a></li>
+                <li><a href="http://www.covers.com/sports/mls/matchups">MLS</a></li>
+                <li><br><br></li>
+            </ul>
+        </li>
+
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Odds</a>
+            <ul id="covers-coversNav-hamOddsdropSub">
+                        <li>
+            <a href="http://www.covers.com/odds/football/nfl-spreads.aspx">NFL</a>
+        </li>
+        <li>
+            <a href="http://www.covers.com/odds/basketball/nba-spreads.aspx">NBA</a>
+        </li>
+        <li>
+            <a href="http://www.covers.com/odds/football/college-football-odds.aspx">NCAAF</a>
+        </li>
+        <li>
+            <a href="http://www.covers.com/odds/basketball/college-basketball-odds.aspx">NCAAB</a>
+        </li>
+        <li>
+            <a href="http://www.covers.com/odds/hockey/nhl-odds.aspx">NHL</a>
+        </li>
+        <li>
+            <a href="http://www.covers.com/odds/football/cfl-odds.aspx">CFL</a>
+        </li>
+
+            </ul>
+        </li>
+
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Forum</a>
+            <ul id="covers-coversNav-hamForumdropSub">
+                <li>
+                    <a href="http://www.covers.com/postingforum">All Forums</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=21">NFL Betting</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=22">NBA Betting</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=27">MLB Betting</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=23">NHL Betting</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=33">NCAAF Betting</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=40">NCAAB Betting</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=17">Help Forum</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/post01/showmain.aspx?spt=35">General Discussion</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/forum/search">Forum Search</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/forum_manifesto.aspx">Guidelines</a>
+                </li>
+                <li>
+                    <a href="http://www.covers.com/postingforum/faq.aspx">FAQ</a>
+                </li>
+                <li><br><br></li>
+            </ul>
+        </li>
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="https://www.youtube.com/channel/UCwy_kTt8FLKUDyCKIyoqHnw" rel="external" target="_blank">Covers Videos</a>
+        </li>
+
+
+        <li>
+            <a class="covers-CoversNav-hamDrop--topLinks" href="#">Where To Play</a>
+            <ul id="covers-coversNav-hamwtpsub">
+                <li><a href="http://www.covers.com/WhereToPlay/Sportsbooks">Sportsbooks</a></li>
+                <li><a href="http://www.covers.com/WhereToPlay/Fantasy">Fantasy</a></li>
+                <li><a href="http://www.covers.com/WhereToPlay/Poker">Poker</a></li>
+                <li><a href="http://www.covers.com/WhereToPlay/Horses">Horses</a></li>
+                <li><a href="http://www.covers.com/WhereToPlay/Casino">Casinos</a></li>
+                <li><a href="http://www.covers.com/WhereToPlay/Lottery">Lottery</a></li>
+                <li><a href="http://www.covers.com/WhereToPlay/Vegas">Vegas</a></li>
+                <li><br><br></li>
+            </ul>
+        </li>
+    </ul>
+</li>
+
+
+
+            <li class="dropdown">
+                <a href="http://www.covers.com/sports/nfl" class="covers-CoversNav--inactive">NFL</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns3">
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/nfl">NFL HOME</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/nfl/matchups">Scores &amp; Matchups</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/odds/football/nfl-spreads.aspx">Odds</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="https://experts.covers.com/picks/league/nfl">Experts Picks</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/kingofcovers/league/nfl">NFL Contest</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nfl/injury/injuries.html">Injuries</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nfl/teams/teams.html">Teams</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nfl/players/players.html">Players</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nfl/standings/standings.html&amp;hf=off">Standings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nfl/statistics/statistics.html&amp;hf=off">Statistics</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nfl/trends/league/season.html">League Trends</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/Sports/NFL/PowerRankings">Power Rankings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/faxsheets/index.aspx">Print Sheets</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://www.covers.com/sports/nba">NBA</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns3">
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/nba">NBA HOME</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/nba/matchups">Scores &amp; Matchups</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/odds/basketball/nba-spreads.aspx">Odds</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="https://experts.covers.com/picks/league/nba">Experts Picks</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+
+                    <li>
+                        <a href="http://contests.covers.com/kingofcovers/league/nba">NBA Contest</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/referees/current_assignments.html">Ref Assignments</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/injury/injuries.html">Injuries</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/teams/teams.html">Teams</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/players/players.html">Players</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/referees/referees.html">Referees</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/standings/standings.html&amp;hf=off">Standings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/statistics/statistics.html&amp;hf=off">Statistics</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/trends/league/season.html">League Trends</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/sports/nba/powerrankings">Power Rankings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/faxsheets/index.aspx">Print Sheets</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://www.covers.com/sports/mlb" class="covers-CoversNav--inactive">MLB</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns3" style="">
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/mlb">MLB HOME</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/mlb/matchups">Scores &amp; Matchups</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/odds/baseball/mlb-odds.aspx">Odds</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="https://experts.covers.com/picks/league/mlb">Experts Picks</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/kingofcovers/league/mlb">MLB Contest</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/injury/injuries_al.html">AL Injuries</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/injury/injuries_nl.html">NL Injuries</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/teams/teams.html">Teams</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/players/players.html">Players</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/standings/standings.html&amp;hf=off">Standings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/statistics/statistics.html&amp;hf=off">Statistics</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/trends/league/season.html">League Trends</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/umpires/umpires.html">Umpires</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/stadiums/stadiums.html&amp;hf=off">Stadiums</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/Sports/MLB/PowerRankings">Power Rankings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/faxsheets/index.aspx">Print Sheets</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://www.covers.com/sports/nhl" class="covers-CoversNav--inactive">NHL</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns3" style="">
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/nhl">NHL HOME</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/nhl/matchups">Scores &amp; Matchups</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/odds/hockey/nhl-odds.aspx">Odds</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="https://experts.covers.com/picks/league/nhl">Experts Picks</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/kingofcovers/league/nhl">NHL Contest</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/injury/injuries.html">Injuries</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/teams/teams.html">Teams</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/players/players.html">Players</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/referees/referees.html">Referees</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/standings/standings.html&amp;hf=off">Standings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/statistics/statistics.html&amp;hf=off">Statistics</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/trends/league/season.html">League Trends</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/Sports/NHL/PowerRankings">Power Rankings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/faxsheets/index.aspx">Print Sheets</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://www.covers.com/sports/ncaaf" class="covers-CoversNav--inactive">NCAAF</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns3">
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/ncaaf">NCAAF HOME</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/ncaaf/matchups">Scores &amp; Matchups</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/odds/football/college-football-odds.aspx">Odds</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="https://experts.covers.com/picks/league/ncaaf">Experts Picks</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/kingofcovers/league/ncaaf">NCAAF Contest</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncf/injury/injuries.html">Injuries</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncf/teams/teams.html">Teams</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncf/players/players.html">Players</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncf/standings/standings.html&amp;hf=off">Standings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncf/statistics/statistics.html&amp;hf=off">Statistics</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncf/trends/league/season.html">League Trends</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/Sports/NCAAF/PowerRankings">Power Rankings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/faxsheets/index.aspx">Print Sheets</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://www.covers.com/sports/ncaab" class="covers-CoversNav--inactive">NCAAB</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns3">
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/ncaab">NCAAB HOME</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/sports/ncaab/matchups">Scores &amp; Matchups</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="http://www.covers.com/odds/basketball/college-basketball-odds.aspx">Odds</a>
+                    </li>
+                    <li>
+                        <a class="covers-CoversNav-dropdownTop3" href="https://experts.covers.com/picks/league/ncaab">Experts Picks</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/kingofcovers/league/ncaab">NCAAB Contest</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/tournament/bracket.html&amp;hf=off">Bracket</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/injury/injuries.html">Injuries</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/teams/teams.html">Teams</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/players/players.html">Players</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/standings/standings.html&amp;hf=off">Standings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/statistics/statistics.html&amp;hf=off">Statistics</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/trends/league/season.html">League Trends</a>
+                    </li>
+                    <li>
+                        <a href="/Sports/NCAAB/PowerRankings">Power Rankings</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/faxsheets/index.aspx">Print Sheets</a>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                    <li>
+                        <br>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="covers-CoversNav--inactive">More</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns1" style="">
+                    <li>
+                        <a href="http://www.covers.com/soccer/soccer_main.aspx">Soccer</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nascar/schedule/schedule.html&amp;hf=off">NASCAR</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/sports/cfl/matchups">CFL</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/sports/wnba/matchups">WNBA</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/sports/afl/matchups">AFL</a>
+                    </li>
+                </ul>
+            </li>
+             <li class="dropdown">
+                <a href="http://www.covers.com/Editorial/Sports-Betting-News" class="covers-CoversNav--inactive">News</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns1" style="">
+                    <li>
+                        <a href="http://www.covers.com/Editorial/Sports-Betting-News">Sports Betting News</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/sportsbetting/betting101.aspx">Betting 101</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/Editorial/Writer/CoversWriters">Covers Writers</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://contests.covers.com/Consensus" class="">Consensus</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns1" style="">
+                    <li>
+                        <a href="http://contests.covers.com/Consensus">Consensus Picks</a>
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/Consensus/CommunityLeaders">Community Leaders: League</a>
+                    </li>
+
+                    <li>
+                        <a href="http://contests.covers.com/Consensus/CommunityLeadersByLeagueTeam">Community Leaders: Team</a>
+
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/Consensus/PublicMoney">Public Money</a>
+                    </li>
+                    <li>
+                        <a href="http://contests.covers.com/Consensus/Faq">Consensus FAQ</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://www.covers.com/postingforum/">Forum</a>
+                <ul class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns2">
+                    <li>
+                        <a href="http://www.covers.com/postingforum/">All Forums</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=21">NFL Betting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=22">NBA Betting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=27">MLB Betting</a>
+                    </li>
+                     <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=23">NHL Betting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=33">NCAAF Betting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=40">NCAAB Betting</a>
+                    </li>
+                   <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=17">Help Forum</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/POST01/showmain.aspx?spt=35">General Discussion</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/forum/search">Forum Search</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/forum_manifesto.aspx">Guidelines</a>
+                    </li>
+                    <li>
+                        <a href="http://www.covers.com/postingforum/faq.aspx">FAQ</a>
+                    </li>
+                    <li>
+                        <br><br><br>
+                    </li>
+                </ul>
+            </li>
+
+            
+
+
+<li class="dropdown covers-CoversNav-mainLinks">
+    <a href="https://experts.covers.com">EXPERTS PICKS</a>
+    <ul id="covers-coversNav-expertsDrop" class="dropdown-menu covers-coversNav-dropdownColumns covers-coversNav-dropdownColumns">
+        <li><a href="https://experts.covers.com">Home</a></li>
+        <li><a href="https://experts.covers.com/picks">All Picks</a></li>
+        <li><a href="https://experts.covers.com/subscriptions">Subscriptions</a></li>
+        <li><a href="https://experts.covers.com/handicappers">Handicappers</a></li>
+        
+        <li><a href="https://experts.covers.com/account">My Experts</a></li>
+        <li><a href="https://experts.covers.com/guarantee">Guarantee</a></li>
+        <li><a href="https://experts.covers.com/RecentBlogs/">Chalk Talk Blog</a></li>
+        <li>
+            <a href="https://experts.covers.com/ArticlesArchive">Expert's Edge</a>
+        </li>
+        <li><a href="https://experts.covers.com/help">Help</a></li>
+    </ul>
+</li>
+
+            
+
+<li class="dropdown covers-CoversNav-mainLinks">
+    
+    <a href="http://contests.covers.com">Contests</a>
+    <ul id="covers-coversNav-contestsDrop" class="dropdown-menu covers-coversNav-dropdownColumns">
+        <li><a href="http://contests.covers.com">Home</a></li>
+        <li><a href="http://contests.covers.com/KingOfCovers">King Of Covers</a></li>
+        <li><a href="http://contests.covers.com/Survivor">Streak Survivor</a></li>
+        <li><a href="http://contests.covers.com/UltimateRace">Ultimate race</a></li>
+        <li><a href="http://contests.covers.com/OfficePools">Office Pools</a></li>
+        <li><a href="http://contests.covers.com/mycontests">My Contests</a></li>
+    </ul>
+</li>
+
+
+        </ul>
+    </div>
+</div>
+
+
+
+    <!-- Kill skype toolbar -->
+    <span id="skype_highlighting_settings" display="none" autoextractnumbers="0"></span>
+
+    <div id="container">
+
+        <div class="cmg_ad_unit" data-cmg-ad="99"></div>
+
+
+
+        <div id="content" class="cmg_nba Matchups">
+            
+
+
+
+
+
+
+<div class="cmg_adunit">
+    <div class="cmg_ad_unit" data-cmg-ad="1"></div>
+</div>
+
+<h1 class="covers_header"><span>NBA: <span>Scores and Matchups</span></span></h1>
+
+<div class="cmg_navigation_conference_season">
+    
+
+
+
+    
+
+<span>Season: <select id="cmg_season_dropdown" name="cmg_season_dropdown"><option selected="selected" value="2017-4-12">2016-2017</option>
+<option value="2016-6-19">2015-2016</option>
+<option value="2015-6-16">2014-2015</option>
+<option value="2014-6-15">2013-2014</option>
+<option value="2013-6-20">2012-2013</option>
+<option value="2012-6-21">2011-2012</option>
+<option value="2011-6-12">2010-2011</option>
+</select></span>
+</div>
+
+<div class="cmg_sorting_row">
+    
+
+
+
+    
+<div class="cmg_matchup_day_navigation_container">
+    <div class="cmg_matchup_day_navigation_today" style="display:none">
+        <span class="cmg_label">DATE:</span>
+        
+<a href="/Sports/NBA/Matchups">Today</a>
+    </div>
+    <div class="cmg_matchup_three_day_navigation" style="display:none">
+<a class="cmg_navigation_item" data-date="2016-11-23" href="/Sports/NBA/Matchups?selectedDate=2016-11-23">Wed. Nov 23</a><a class="cmg_active_navigation_item" data-date="2016-11-25" href="/Sports/NBA/Matchups?selectedDate=2016-11-25">Fri. Nov 25</a><a class="cmg_navigation_item" data-date="2016-11-26" href="/Sports/NBA/Matchups?selectedDate=2016-11-26">Sat. Nov 26</a>
+    </div>
+</div>
+
+<input id="cmg_matchups_calendar" type="text" style="display:none"></input>
+
+    <div class="cmg_sorting_options">
+        
+
+
+<span class="cmg_label">SORT BY:</span>
+
+<div class="cmg_carousel cmg_matchup_sorting">
+  
+    <a id="game_time_sort">Gametime</a>
+    
+    <a id="following_sort">Following</a> 
+    <a id="biggest_line_move_sort">Largest ATS Move</a>
+        <a id="biggest_home_dog_sort">Largest Home Dog</a>
+    <a id="smallest_spread_sort">Smallest Spread</a> 
+    <a id="largest_spread_sort">Biggest Spread</a>
+    <a id="smallest_total_sort">Lowest Total</a>
+    <a id="largest_total_sort">Highest Total</a>
+    <a id="most_line_moves_sort">Most Line Moves</a>
+   
+    
+</div>
+    </div>
+</div>    
+
+
+
+
+
+
+<div class="cmg_matchups_legend">
+    <div class="cmg_l_col cmg_l_span_6">
+        <img src="http://images.covers.com/covers/icons/icon_follow.png"/>
+        <span>Click follow checkbox to prioritize your matchups</span>
+    </div>
+    <div class="cmg_l_col cmg_l_span_6">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png"/>
+        <span>Free Pick from Covers Experts</span>
+    </div>
+</div>
+
+<div class="cmg_matchups_list" data-overall-last-update="2016-08-11T19:16:05.7570000" data-spread-graph-json-url="/Sports/NBA/Matchups/SpreadBetGraphJson" data-todays-date="11/24/2016 12:00:00 AM">
+    
+
+
+
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944914" data-index="0" data-following="false" data-last-update="2016-08-11T19:16:05.6970000" data-link="/Sports/NBA/Matchups/944914"  data-handicap-difference="0.5" data-game-odd="2.5" data-game-total="202" data-line-moves="6" data-sdi-event-id="/sport/basketball/competition:944914" data-game-date="2016-11-25 13:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Interleague" data-home-conference="Eastern Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944914" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+San Antonio at Boston
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                SA
+
+                    <span>701</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404302.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/SA.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        69%
+                    </div>
+
+                    -2.5
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+1:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 203</span>
+                    <span>BOS +3</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 202</span>
+                    <span>BOS +2.5</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>702</span>
+
+                BOS
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404169.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/BOS.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +2.5
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        31%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944914">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_1.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_1.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944914" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944914&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_1.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_1.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>12 - 3</span><span>(8 - 0 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>7 - 7</span><span>(5 - 2 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>8 - 2</span><span>(4 - 6 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>9 - 6</span><span>(4 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>9 - 6</span><span>(3 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>6 - 4</span><span>(6 - 4 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944915" data-index="1" data-following="false" data-last-update="2016-08-11T19:16:05.6970000" data-link="/Sports/NBA/Matchups/944915"  data-handicap-difference="1" data-game-odd="1" data-game-total="202" data-line-moves="4" data-sdi-event-id="/sport/basketball/competition:944915" data-game-date="2016-11-25 19:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Eastern Conference" data-home-conference="Eastern Conference" data-away-conference="Eastern Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944915" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Washington at Orlando
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                WAS
+
+                    <span>703</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404067.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/WAS.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        71%
+                    </div>
+
+                    -1
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+7:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 203</span>
+                    <span>ORL PK</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 202</span>
+                    <span>ORL +1</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>704</span>
+
+                ORL
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404013.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/ORL.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +1
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        29%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944915">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_2.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_2.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944915" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944915&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_2.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_2.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>4 - 9</span><span>(0 - 5 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>4 - 9</span><span>(1 - 4 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>4 - 6</span><span>(4 - 6 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>6 - 9</span><span>(4 - 4 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>5 - 10</span><span>(2 - 6 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>4 - 6</span><span>(3 - 7 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944916" data-index="2" data-following="false" data-last-update="2016-08-11T19:16:05.6970000" data-link="/Sports/NBA/Matchups/944916"  data-handicap-difference="0" data-game-odd="-14.5" data-game-total="202.5" data-line-moves="2" data-sdi-event-id="/sport/basketball/competition:944916" data-game-date="2016-11-25 19:30:00" data-top-25=false data-competition-type="Regular Season" data-conference="Interleague" data-home-conference="Eastern Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944916" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Dallas at Cleveland
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                DAL
+
+                    <span>707</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404047.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/DAL.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        -
+                    </div>
+
+                    +14.5
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+7:30 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 202.5</span>
+                    <span>CLE -14.5</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 202.5</span>
+                    <span>CLE -14.5</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>708</span>
+
+                CLE
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404213.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/CLE.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    -14.5
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        -
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944916">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_3.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_3.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944916" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944916&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_3.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_3.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>2 - 12</span><span>(1 - 8 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>4 - 10</span><span>(3 - 6 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>2 - 8</span><span>(3 - 7 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>11 - 2</span><span>(8 - 1 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>5 - 7</span><span>(3 - 5 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>8 - 2</span><span>(3 - 6 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944917" data-index="3" data-following="false" data-last-update="2016-08-11T19:16:05.7100000" data-link="/Sports/NBA/Matchups/944917"  data-handicap-difference="2.5" data-game-odd="1" data-game-total="211" data-line-moves="3" data-sdi-event-id="/sport/basketball/competition:944917" data-game-date="2016-11-25 19:30:00" data-top-25=false data-competition-type="Regular Season" data-conference="Eastern Conference" data-home-conference="Eastern Conference" data-away-conference="Eastern Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944917" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Charlotte at New York
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                CHA
+
+                    <span>705</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team664421.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/CHA.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        24%
+                    </div>
+
+                    -1
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+7:30 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 206.5</span>
+                    <span>NY -1.5</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 211</span>
+                    <span>NY +1</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>706</span>
+
+                NY
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404288.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/NY.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +1
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        76%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944917">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_4.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_4.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944917" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944917&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_4.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_4.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>8 - 6</span><span>(4 - 2 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>8 - 5</span><span>(3 - 2 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>5 - 5</span><span>(5 - 4 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>7 - 7</span><span>(6 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>7 - 7</span><span>(6 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>6 - 4</span><span>(6 - 4 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944918" data-index="4" data-following="false" data-last-update="2016-08-11T19:16:05.7100000" data-link="/Sports/NBA/Matchups/944918"  data-handicap-difference="0.5" data-game-odd="7.5" data-game-total="203.5" data-line-moves="9" data-sdi-event-id="/sport/basketball/competition:944918" data-game-date="2016-11-25 19:30:00" data-top-25=false data-competition-type="Regular Season" data-conference="Eastern Conference" data-home-conference="Eastern Conference" data-away-conference="Eastern Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944918" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Chicago at Philadelphia
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                CHI
+
+                    <span>711</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404198.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/CHI.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        47%
+                    </div>
+
+                    -7.5
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+7:30 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 205</span>
+                    <span>PHI +7</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 203.5</span>
+                    <span>PHI +7.5</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>712</span>
+
+                PHI
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404083.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/PHI.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +7.5
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        53%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944918">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_18.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_18.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944918" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944918&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_18.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_18.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>9 - 6</span><span>(5 - 5 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>10 - 5</span><span>(6 - 4 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>6 - 4</span><span>(7 - 3 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>4 - 11</span><span>(4 - 6 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>9 - 6</span><span>(8 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>4 - 6</span><span>(6 - 4 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944919" data-index="5" data-following="false" data-last-update="2016-08-11T19:16:05.7100000" data-link="/Sports/NBA/Matchups/944919"  data-handicap-difference="0.5" data-game-odd="6.5" data-game-total="201.5" data-line-moves="7" data-sdi-event-id="/sport/basketball/competition:944919" data-game-date="2016-11-25 19:30:00" data-top-25=false data-competition-type="Regular Season" data-conference="Interleague" data-home-conference="Eastern Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944919" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+L.A. Clippers at Detroit
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                LAC
+
+                    <span>709</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404135.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/LAC.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        68%
+                    </div>
+
+                    -6.5
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+7:30 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 198.5</span>
+                    <span>DET +7</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 201.5</span>
+                    <span>DET +6.5</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>710</span>
+
+                DET
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404153.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/DET.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +6.5
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        32%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944919">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_19.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_19.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944919" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944919&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_19.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_19.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>14 - 2</span><span>(7 - 0 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>10 - 6</span><span>(5 - 2 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>9 - 1</span><span>(5 - 5 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>7 - 9</span><span>(6 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>7 - 9</span><span>(6 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>3 - 7</span><span>(3 - 7 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944920" data-index="6" data-following="false" data-last-update="2016-08-11T19:16:05.7100000" data-link="/Sports/NBA/Matchups/944920"  data-handicap-difference="0.5" data-game-odd="-2.5" data-game-total="195.5" data-line-moves="7" data-sdi-event-id="/sport/basketball/competition:944920" data-game-date="2016-11-25 20:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Interleague" data-home-conference="Western Conference" data-away-conference="Eastern Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944920" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Atlanta at Utah
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                ATL
+
+                    <span>713</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404085.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/ATL.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        45%
+                    </div>
+
+                    +2.5
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+8:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 195</span>
+                    <span>UTA -3</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 195.5</span>
+                    <span>UTA -2.5</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>714</span>
+
+                UTA
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404031.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/UTA.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    -2.5
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        55%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944920">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_20.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_20.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944920" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944920&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_20.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_20.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>10 - 5</span><span>(4 - 3 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>9 - 6</span><span>(3 - 4 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>7 - 3</span><span>(6 - 4 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>8 - 8</span><span>(3 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>7 - 9</span><span>(2 - 4 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>5 - 5</span><span>(5 - 5 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944921" data-index="7" data-following="false" data-last-update="2016-08-11T19:16:05.7270000" data-link="/Sports/NBA/Matchups/944921"  data-handicap-difference="0.5" data-game-odd="3" data-game-total="211" data-line-moves="7" data-sdi-event-id="/sport/basketball/competition:944921" data-game-date="2016-11-25 20:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Eastern Conference" data-home-conference="Eastern Conference" data-away-conference="Eastern Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944921" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Toronto at Milwaukee
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                TOR
+
+                    <span>715</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404330.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/TOR.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        86%
+                    </div>
+
+                    -3
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+8:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 212</span>
+                    <span>MIL +3.5</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 211</span>
+                    <span>MIL +3</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>716</span>
+
+                MIL
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404011.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/MIL.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +3
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        14%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944921">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_21.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_21.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944921" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944921&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_21.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_21.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>9 - 6</span><span>(5 - 3 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>9 - 5</span><span>(6 - 2 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>5 - 5</span><span>(6 - 3 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>6 - 7</span><span>(5 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>5 - 8</span><span>(4 - 4 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>5 - 5</span><span>(5 - 5 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944922" data-index="8" data-following="false" data-last-update="2016-08-11T19:16:05.7270000" data-link="/Sports/NBA/Matchups/944922"  data-handicap-difference="0" data-game-odd="-6" data-game-total="189.5" data-line-moves="2" data-sdi-event-id="/sport/basketball/competition:944922" data-game-date="2016-11-25 20:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Interleague" data-home-conference="Western Conference" data-away-conference="Eastern Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944922" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Miami at Memphis
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                MIA
+
+                    <span>717</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404171.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/MIA.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        -
+                    </div>
+
+                    +6
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+8:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 189.5</span>
+                    <span>MEM -6</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 189.5</span>
+                    <span>MEM -6</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>718</span>
+
+                MEM
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404049.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/MEM.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    -6
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        -
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944922">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_22.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_22.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944922" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944922&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_22.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_22.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>4 - 10</span><span>(2 - 5 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>6 - 8</span><span>(3 - 4 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>2 - 8</span><span>(4 - 6 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>10 - 5</span><span>(5 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>8 - 7</span><span>(4 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>7 - 3</span><span>(5 - 5 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944923" data-index="9" data-following="false" data-last-update="2016-08-11T19:16:05.7270000" data-link="/Sports/NBA/Matchups/944923"  data-handicap-difference="0" data-game-odd="-8.5" data-game-total="215.5" data-line-moves="6" data-sdi-event-id="/sport/basketball/competition:944923" data-game-date="2016-11-25 20:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Eastern Conference" data-home-conference="Eastern Conference" data-away-conference="Eastern Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944923" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Brooklyn at Indiana
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                BK
+
+                    <span>719</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404117.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/BK.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        62%
+                    </div>
+
+                    +8.5
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+8:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 215</span>
+                    <span>IND -8.5</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 215.5</span>
+                    <span>IND -8.5</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>720</span>
+
+                IND
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404155.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/IND.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    -8.5
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        38%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944923">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_23.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_23.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944923" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944923&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_23.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_23.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>4 - 10</span><span>(1 - 6 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>7 - 6</span><span>(3 - 3 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>3 - 7</span><span>(4 - 5 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>7 - 9</span><span>(6 - 4 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>5 - 11</span><span>(4 - 6 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>4 - 6</span><span>(3 - 7 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944924" data-index="10" data-following="false" data-last-update="2016-08-11T19:16:05.7270000" data-link="/Sports/NBA/Matchups/944924"  data-handicap-difference="" data-game-odd="" data-game-total="" data-line-moves="" data-sdi-event-id="/sport/basketball/competition:944924" data-game-date="2016-11-25 21:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Western Conference" data-home-conference="Western Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944924" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Oklahoma City at Denver
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                OKC
+
+                    <span>723</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404316.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/OKC.gif" />   
+
+    </a>
+
+            </div>
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+9:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U:     Off
+</span>
+                    <span>ATS:    Off
+</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U:     Off
+</span>
+                    <span>ATS:    Off
+</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>724</span>
+
+                DEN
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404065.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/DEN.gif" />   
+
+    </a>
+
+            </div>  
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944924">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_24.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_24.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944924" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944924&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_24.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_24.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>8 - 8</span><span>(2 - 4 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>6 - 10</span><span>(1 - 5 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>3 - 7</span><span>(3 - 7 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>6 - 9</span><span>(3 - 4 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>10 - 5</span><span>(4 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>4 - 6</span><span>(7 - 3 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944925" data-index="11" data-following="false" data-last-update="2016-08-11T19:16:05.7270000" data-link="/Sports/NBA/Matchups/944925"  data-handicap-difference="1" data-game-odd="1" data-game-total="213" data-line-moves="6" data-sdi-event-id="/sport/basketball/competition:944925" data-game-date="2016-11-25 21:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Western Conference" data-home-conference="Western Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944925" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Minnesota at Phoenix
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                MIN
+
+                    <span>721</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team403995.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/MIN.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        47%
+                    </div>
+
+                    -1
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+9:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 213.5</span>
+                    <span>PHO PK</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 213</span>
+                    <span>PHO +1</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>722</span>
+
+                PHO
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404029.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/PHO.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +1
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        53%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944925">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_25.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_25.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944925" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944925&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_25.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_25.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>4 - 10</span><span>(1 - 6 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>4 - 10</span><span>(1 - 6 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>3 - 7</span><span>(3 - 7 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>5 - 11</span><span>(2 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>10 - 6</span><span>(3 - 2 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>3 - 7</span><span>(6 - 4 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944926" data-index="12" data-following="false" data-last-update="2016-08-11T19:16:05.7430000" data-link="/Sports/NBA/Matchups/944926"  data-handicap-difference="1.5" data-game-odd="-4" data-game-total="219" data-line-moves="6" data-sdi-event-id="/sport/basketball/competition:944926" data-game-date="2016-11-25 22:00:00" data-top-25=false data-competition-type="Regular Season" data-conference="Western Conference" data-home-conference="Western Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944926" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+New Orleans at Portland
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                NO
+
+                    <span>725</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404101.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/NO.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        26%
+                    </div>
+
+                    +4
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+10:00 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 219</span>
+                    <span>POR -5.5</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 219</span>
+                    <span>POR -4</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>726</span>
+
+                POR
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team403993.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/POR.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    -4
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        74%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944926">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_26.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_26.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944926" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944926&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_26.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_26.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>6 - 10</span><span>(2 - 5 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>9 - 7</span><span>(4 - 3 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>6 - 4</span><span>(8 - 2 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>8 - 9</span><span>(4 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>5 - 12</span><span>(1 - 6 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>4 - 6</span><span>(1 - 9 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944927" data-index="13" data-following="false" data-last-update="2016-08-11T19:16:05.7430000" data-link="/Sports/NBA/Matchups/944927"  data-handicap-difference="0.5" data-game-odd="13" data-game-total="233" data-line-moves="9" data-sdi-event-id="/sport/basketball/competition:944927" data-game-date="2016-11-25 22:30:00" data-top-25=false data-competition-type="Regular Season" data-conference="Western Conference" data-home-conference="Western Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944927" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Golden State at L.A. Lakers
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                GS
+
+                    <span>729</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404119.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/GS.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        81%
+                    </div>
+
+                    -13
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+10:30 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 234</span>
+                    <span>LAL +12.5</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 233</span>
+                    <span>LAL +13</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>730</span>
+
+                LAL
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team403977.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/LAL.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +13
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        19%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944927">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_27.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_27.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944927" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944927&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_27.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_27.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>13 - 2</span><span>(8 - 1 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>7 - 7</span><span>(4 - 4 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>9 - 1</span><span>(5 - 4 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>8 - 8</span><span>(5 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>9 - 6</span><span>(4 - 3 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>5 - 5</span><span>(4 - 5 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="cmg_matchup_game cmg_pregame">
+    
+    <div class="cmg_matchup_game_box"     data-event-id="944928" data-index="14" data-following="false" data-last-update="2016-08-11T19:16:05.7570000" data-link="/Sports/NBA/Matchups/944928"  data-handicap-difference="3" data-game-odd="3" data-game-total="214.5" data-line-moves="3" data-sdi-event-id="/sport/basketball/competition:944928" data-game-date="2016-11-25 22:30:00" data-top-25=false data-competition-type="Regular Season" data-conference="Western Conference" data-home-conference="Western Conference" data-away-conference="Western Conference"
+>
+ 
+        <div class="cmg_matchup_header">
+           
+                <div class="cmg_matchup_header_grabber">
+        <span class="cmg_follow_link" data-league="NBA" data-follow="true" data-event-id="944928" title="Click to follow this game"/>
+    </div>
+
+            
+            <div class="cmg_matchup_header_team_names">
+Houston at Sacramento
+
+                
+            </div>
+           
+                <div class="cmg_matchup_header_conference">
+    </div>
+   
+            
+        </div>
+
+        <div class="cmg_matchup_list_column_1">
+      
+            <div class="cmg_team_name">
+                HOU
+
+                    <span>727</span>
+            </div>
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team404137.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/HOU.gif" />   
+
+    </a>
+
+            </div>
+                <div class="cmg_matchup_list_away_odds">
+
+                    <div class="cmg_matchup_list_odds_value">
+                        72%
+                    </div>
+
+                    -3
+                </div>   
+            <div class="cmg_team_prediction">N/A</div>
+                
+        </div>
+        <div class="cmg_matchup_list_column_2">        
+            <div class="cmg_team_at"></div>          
+            <div class="cmg_game_time">
+10:30 PM                    ET
+            </div> 
+            <div class="cmg_team_odds">
+                <div class="cmg_team_opening_odds">
+                    <span class="cmg_black_font">OPEN:</span>
+                    <span>O/U: 217.5</span>
+                    <span>SAC PK</span>
+                </div>
+
+                <div class="cmg_team_live_odds">
+                    <span class="cmg_black_font">LIVE:</span>
+                    <span>O/U: 214.5</span>
+                    <span>SAC +3</span> 
+                </div>
+            </div>    
+        </div>
+      
+        <div class="cmg_matchup_list_column_3">
+   
+            <div class="cmg_team_name">
+                    <span>728</span>
+
+                SAC
+            </div>  
+            <div class="cmg_team_logo">
+                    <a href="/pageLoader/pageLoader.aspx?page=/data/NBA/teams/team403975.html">
+            <img src="http://images.covers.com/covers/data/logos/NBA/SAC.gif" />   
+
+    </a>
+
+            </div>  
+                <div class="cmg_matchup_list_home_odds">
+
+                    +3
+                    
+                    <div class="cmg_matchup_list_odds_value">
+                        28%
+                    </div>
+                </div> 
+            <div class="cmg_team_prediction">N/A</div>
+        </div>
+        <div class="cmg_l_row cmg_matchup_list_gamebox">
+                <a class="cmg_free_pick" style="display:none" data-competition-id="/sport/basketball/competition:944928">
+        <img alt="Free pick available" src="http://images.covers.com/experts2012/icons/freepickavail.png">
+    </a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_preview_28.html">Preview</a>
+    <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_trends_28.html">Trends</a>
+    <a href="http://contests.covers.com/Consensus/MatchupConsensusDetails?externalId=%2fsport%2fbasketball%2fcompetition%3a944928" target="_blank">Consensus</a>
+    <a href="http://www.covers.com/odds/linehistory.aspx?eventId=944928&sport=NBA">Line History</a>
+            <a class="cmg_btn cmg_btn_primary" style="float: right; margin-top:2.5px; margin-right:-0.5px;" href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_summary_28.html">Matchup</a>
+
+                <a href="http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nba/matchups/g5_referees_28.html">Referees</a>
+        </div>
+        <div class="cmg_l_row cmg_matchup_inshort">
+            
+
+
+    <div class="cmg_l_row cmg_matchup_in_short_condensed">
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_away">
+            <div class="cmg_matchup_in_short_condensed_away_record">
+                <span class="cmg_label">RECORD:</span><span>9 - 6</span><span>(5 - 4 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_ats">
+                <span class="cmg_label">ATS:</span><span>10 - 5</span><span>(7 - 2 Road)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_away_lastten">
+                <span class="cmg_label">L10:</span><span>6 - 4</span><span>(7 - 3 ATS)</span>    
+            </div>
+        </div>
+        <div class="cmg_l_col cmg_l_span_6 cmg_matchup_in_short_condensed_home">
+            <div class="cmg_matchup_in_short_condensed_home_record">
+                <span class="cmg_label">RECORD:</span><span>6 - 9</span><span>(4 - 4 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_ats">
+                <span class="cmg_label"> ATS:</span><span>9 - 5</span><span>(6 - 1 Home)</span>    
+            </div>
+            <div class="cmg_matchup_in_short_condensed_home_lastten">
+                <span class="cmg_label">L10:</span><span>4 - 6</span><span>(7 - 3 ATS)</span>    
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+<div id="cmg_empty_list" style="display: none; text-align: center">There are no games being played on this day in this Conference.</div>
+
+<div class="cmg_adunit">
+    <div class="cmg_ad_unit" data-cmg-ad="50"></div>
+</div>
+
+<div id="freePickTitle" style="display:none">
+    <a href="https://experts.covers.com"><img src="http://images.covers.com/experts2012/logos/ce_logo_grey.png"/></a>
+</div>
+
+<div id="cmg_hidden_container"></div>
+
+<script>
+    $(function() {
+        var $page = $(this);
+
+        //TODO: Uncomment
+        //CMG_SPORTS.setupTotalAccordion('/Sports/NBA/Matchups/TotalGraphJson');    
+
+        //Create the event navigation for all the games played on the same day as the current matchup
+        CMG_SPORTS.matchupNavigationCarousel($(".cmg_matchup_navigation", $page));
+
+        CMG_SPORTS.matchupCalendar($("#cmg_matchups_calendar"), '/Sports/NBA/Matchups/ScheduleJson?selectedSeason=%2Fsport%2Fbasketball%2Fseason%3A664558&dateFormat=yyyy-M-d', { selectedDate: '2016-11-25', league: 'NBA' });
+
+        CMG_SPORTS.initializeMasonry();
+
+        //redirect users when they change seasons
+        $("#cmg_season_dropdown", $page).change(function() {
+            window.location.href = '' + '?selectedDate=' + this.value;
+        });
+
+        CMG_SPORTS.spreadGraphJsonRoot = '/Sports/NBA/Matchups/SpreadBetGraphJson';
+        CMG_SPORTS.expertsUrl = 'https://experts.covers.com';
+
+        //set-up free picks qtip links
+        $.getJSON('https://experts.covers.com/Store/Picks/FreePicksJson', function(data) {
+            CMG_SPORTS.expertsFreePickJson = data;
+            CMG_SPORTS.createFreePickLink(CMG_SPORTS.expertsFreePickJson);
+        });
+
+        var pauseMatchupRefresh = false;
+        
+        function startRefresh()
+        {
+
+            var refreshMatchupsTimer = function() {
+                //data-overall-last-update is used as a placeholder to store the last update received by a user
+                var lastUpdateTime = $(".cmg_matchups_list", $page).data("overall-last-update");
+
+                if (!pauseMatchupRefresh) {
+                    CMG_SPORTS.matchupsRefresh(
+                        $(".cmg_matchups_list"),
+                        { league: "NBA", type:"UpdatedGameBoxes", lastUpdateTime: lastUpdateTime, selectedDate: "2016-11-25" },
+                        "/Sports/NBA/Matchups/SpreadBetGraphJson",
+                        CMG_SPORTS.updateCallback,
+                        function() {
+                            window.setTimeout(refreshMatchupsTimer, 10000);
+                        }
+                    );
+                } else {
+                    window.setTimeout(refreshMatchupsTimer, 10000);
+                }
+            };
+
+            refreshMatchupsTimer();
+        }
+
+      
+
+        (function ($) {
+            $.fn.CreateFreePickQTip = function () {
+                var tipUrl = $(this).attr('rel');
+                $(this).qtip(
+                    {
+                        content: {
+                            title: function() {
+                                return $("#freePickTitle").clone().show();
+                            },
+                            text: 'Loading...',
+                            ajax: {
+                                url: tipUrl
+                            }
+                        },
+                        show: {
+                            event: 'click',
+                            solo: true
+                        },
+                        hide: {
+                            event: 'click unfocus'
+                        },
+                        style: {
+                            classes: 'tooltip free_pick_tooltip',
+                            def: false
+                        },
+
+                        position: {
+                            my: 'left center',  // Position my top left...
+                            at: 'right center', // at the bottom right of...
+                            viewport: $(window)
+                        },
+                        events: {
+                            show: function() {
+                                pauseMatchupRefresh = true;
+                            },
+                            hide: function() {
+                                pauseMatchupRefresh = false;
+                            } 
+                        }
+                        
+                    }).click(function (event) { event.preventDefault(); });
+            };
+        })(jQuery);
+        
+        //wire up any carousels on the page (sorting)
+        var carouselSettings = {
+            itemsCustom: [[1,3]],
+            pagination: false,
+            navigation: true,
+            navigationText: ["<img src='http://images.covers.com/covers/mobile/arrow_slider_left.png'/>", "<img src='http://images.covers.com/covers/mobile/arrow_slider_right.png'/>"],
+            afterInit: function (elem) {
+                //this logic is used to move the carousel to the active item.
+                var listItem = $(".cmg_active_navigation_item, .cmg_active_sorting_item", elem);
+
+                if (listItem.length) {
+                    var index = this.$owlItems.index(listItem.parent());
+
+                    if (index > 0) {
+                        //move the index back one item so that the active item display second in the list 
+                        //(gives the user a better understanding that there are past, present and future sections in the carousel)
+                        index = index - 1;
+                        this.jumpTo(index);
+                    }
+                }
+            }
+        };
+             
+        CMG_SPORTS.initializeFollowingGames();
+        CMG_SPORTS.initializeSorting();
+        CMG_SPORTS.setupAccordion($(".cmg_matchups_list"));      
+        
+        $(".cmg_carousel").owlCarousel(carouselSettings);
+        $(".cmg_sorting_options").show();
+
+        
+        startRefresh();
+    });
+
+</script>
+
+
+
+    <script>
+        $('.cmg_ingame').each(function () {
+            CMG_SPORTS.initializeCustomOdds($('.cmg_matchup_game_box', this));
+        });
+
+        $('.cmg_postgame').each(function () {
+            CMG_SPORTS.initializeCustomOdds($('.cmg_matchup_game_box', this));
+        });
+    </script>
+
+
+
+            
+        </div>
+
+        
+<div id="footer">
+    
+    
+<div class="covers-coversfooter-view-switcher ui-bar-a">
+    Desktop View:
+    <a href="//headers.covers.com/SwitchView?mobile=True" rel="external" class="covers-coversfooter-switch-link">Switch to Mobile View</a>
+</div>
+
+
+<script type="text/javascript">
+
+    $(function () {
+        var url = window.location.href.replace(/https?:/, "");
+        var link = document.getElementsByClassName("covers-coversfooter-switch-link")[0];
+
+        // Add current Url as parameter to switch link
+        if (null !== link) {
+            var href = link.getAttribute("href");
+            link.setAttribute("href", href + "&returnUrl=" + encodeURIComponent(url));
+        }
+
+        // When link is clicked ajax-call the switcher
+        $(".covers-coversfooter-switch-link").click(function (e) {
+            var link = this.href;
+            e.preventDefault();
+
+            $.ajax({
+                url: link,
+                jsonpCallback: "BrowserOverride",
+                dataType: "jsonp",
+                type: "get",
+                asynch: false,
+                success: function(data) {
+                    var newUrl = data["url"];
+                    var currentUrl = window.location.href.replace(/https?:/, "");
+
+                    if (currentUrl === newUrl) {
+                        // Prevent browser from caching page and displaying wrong view
+                        window.location.reload();
+                    } else {
+                        window.location = newUrl;
+                    }
+                },
+                error: function (xmlHttpRequest, textStatus, errorThrown) {
+                    console.log('Ajax error: ' + errorThrown);
+                }
+            });
+        });
+    });
+
+</script>
+
+    <div class="spacerhalf"></div>
+
+    <span class="footer-title">Customer Service:</span>
+    <a href="http://www.covers.com/sitemap.aspx">Site Map</a>
+    <a href="http://www.covers.com/covers/help/help.aspx">Help</a>
+    <a href="http://www.covers.com/covers/about/about.aspx">About</a>
+    <a target="_blank" href="http://www.covers.com/media-kit/index.html">Advertising</a>
+
+    <a href="http://www.covers.com/covers/about/contact.aspx">Contact Us</a>
+    <a href="http://www.covers.com/covers/about/jobs/jobs.aspx">Careers</a>
+    <a href="http://www.covers.com/covers/about/privacy.aspx">Privacy</a>
+    <a href="http://www.covers.com/covers/about/terms.aspx">Terms of Service</a>
+
+    <div class="spacerhalf"></div>
+
+    <span class="footer-title">Features:</span>
+
+    <a href="http://www.covers.com/faxsheets/index.aspx">Print Sheets</a>
+
+    <a href="http://www.covers.com/rss/index.aspx">Covers RSS feeds</a>
+    <a href="http://www.facebook.com/pages/Coverscom-Sports-Betting/243164289569?">Covers Facebook Page</a>
+    <a href="http://twitter.com/CoversSports" target="_blank">Covers on Twitter</a>
+    <a href="http://www.covers.com/mobile/">Mobile</a>
+    <a href="http://www.covers.com/covers/about/brand.aspx">Our Brand</a>
+
+    <div class="spacerhalf"></div>
+
+    <strong class="footer-title">
+        Copyright © 1995-
+        <script type="text/javascript">
+            var d = new Date();
+            document.write(d.getFullYear());
+        </script> Covers Media Group Ltd.
+    </strong>
+    All Rights Reserved.
+
+    <div class="spacerhalf"></div>
+
+    <!-- Start disclaimer -->
+    <div class="disclaimer">
+        Activities offered by advertising links to other sites may be deemed an illegal activity in certain jurisdictions. Viewers are specifically warned that they should inquire into the legality of participating in any games and/or activities offered by such other sites. The owner of this website assumes no responsibility for the actions by and makes no representation or endorsement of any of these games and/or activities offered by the advertiser. As a condition of viewing this website viewers agree to hold the owner of this website harmless from any claims arising from the viewer’s participation in any of the games and/or activities offered by the advertiser.
+    </div>
+    <!-- End disclaimer -->
+
+    <div class="spacer"></div>
+    <div class="cmg_footer_scoreboard">
+        <div id="cmg_footer_scoreboard_content"></div>
+    </div>
+
+
+
+</div>
+
+
+    </div>
+
+    <!--*** Footer scoreboard ************ -->
+    <div class="cmg_footer_scoreboard">
+        <div id="cmg_footer_scoreboard_content"></div>
+    </div>
+
+    <script type="text/javascript" src='//ads.covers.com/scripts/api.js'></script>
+    <script type="text/javascript">
+        $(window).on("load", function () {
+            CMG_ADS.configuration.urlHost = "//ads.covers.com";
+            CMG_ADS.loadAds("Covers", ".cmg_ad_unit");
+        });
+    </script>
+
+    <script type="text/javascript">
+        var CoversUrl = "http://www.covers.com";
+        var ExpertsUrl = "https://experts.covers.com";
+        var SpacesUrl = "http://spaces.covers.com";
+        var MessagesUrl = "";
+        var AccountsUrl = "https://accounts2.covers.com";
+        var ScoresUrl = "http://scores.covers.com";
+    </script>
+
+     
+
+
+
+    <script type="text/javascript" src="http://headers.covers.com/Scripts/Header.js"></script>
+    <script type="text/javascript" src="https://accounts2.covers.com/scripts/api.js"></script>
+    <script type="text/javascript" src="//ads.covers.com/scripts/api.js"></script>
+
+    <script type="text/javascript">
+        CMG_HEADER({ coversHost: "http://www.covers.com" });
+    </script>
+    <script type="text/javascript">
+        //Configure accounts API
+        CMG_ACCT.configuration.urlHost = "https://accounts2.covers.com";
+        //create user account box for header
+        CMG_ACCT.createUserHeader("covers-CoversHeader-accountsId");
+    </script>
+</body>
+
+</html>
