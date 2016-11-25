@@ -1,0 +1,8 @@
+Main file you need to work with is micro_ML.py if you want to skip the rest of this email and get working. 
+
+master_team_micro_running_dict is your main dictionary with features organized similarly to the macro team work. It's organized as follows:
+dict[TEAM][DATE]["OFF"] for the offensive stats (this call points to another dictionary which is organized as stat_name:stat_value)
+dict[TEAM][DATE]["DEF"] same organization as offensive, but for defensive
+It is a running dictionary, as before, which means its the running average of stats UP UNTIL the date specified for the date dictionary (e.x. a team's 1st date will have an empty default dict for OFF and a zeroed dict for DEF). You can use master_num_date_map to run through each team's dates and then master_running_team_dict to get game info (W/L, point differential, opponent...etc.) as well as our macro stats.
+
+I ended up having to do a different process than we discussed - the shot_logs file from kaggle was actually pretty shitty and only had like some of the shots from half of the games in the NBA season. So instead, I wrote a scraper that pulled from the nba.stats webpages using date toggles. I can explain this further if you'd like but all of this code is located in "shots_down.py." I pruned out a number of features because I thought it would get hefty - it was originally like 351 offensive and 351 defensive features but after pulling out what I thought was most important, its something like 84 for each. This is something I can play with if we aren't getting great accuracy.
