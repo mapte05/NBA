@@ -62,16 +62,22 @@ def main():
 			pointSpread = odds[i]
 			# first is away team, second is home team
 			# a positive point spread means home team not favored to win, negative means is favored to win
-			master_point_spread[teams[1]] = {date: ""}
-			master_point_spread[teams[1]][date] = {teams[0]: ""}
+			if teams[1] not in master_point_spread:
+				master_point_spread[teams[1]] = {}
+			if date not in master_point_spread[teams[1]]:
+				master_point_spread[teams[1]][date] = {}
 			master_point_spread[teams[1]][date][teams[0]] = pointSpread
+			
 			negatedPointSpread = ""
 			if pointSpread.find("-") != -1: # means the spread for home team is negative
 				negatedPointSpread = pointSpread[1:]
 			else:
 				negatedPointSpread = "-" + pointSpread
-			master_point_spread[teams[0]] = {date: ""}
-			master_point_spread[teams[0]][date] = {teams[1]: ""}
+			
+			if teams[0] not in master_point_spread:
+				master_point_spread[teams[0]] = {}
+			if date not in master_point_spread[teams[0]]:
+				master_point_spread[teams[0]][date] = {}
 			master_point_spread[teams[0]][date][teams[1]] = negatedPointSpread
 
 	# dump dict with point spread odds into pickle file
@@ -81,7 +87,14 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # main()
+    with open('betting_lines.pickle', 'rb') as handle:
+    	odds_dict = pickle.load(handle)
+	
+	for team in odds_dict:
+		print team
+		print odds_dict[team]
+		print ""
 
 
 
