@@ -71,7 +71,7 @@ with open(filename, 'rb') as f:
         master_raw_team_dict[team_name][matchup_date]["Info"]["DATE_YEAR"] = int(date_split[2])
 
         master_num_date_map[team_name][game_number] = matchup_date
-        print "matchup date: %s" % matchup_date
+        # print "matchup date: %s" % matchup_date
         master_raw_team_dict[team_name][matchup_date]["Stats"] = game_stats
 
 # Running dictionary maps team to date to stats where its the running average of stats
@@ -172,11 +172,18 @@ for team in master_raw_team_dict.keys():
 # ______________________________________________________________________________________
 # Code to print features and other experiementation for the progress report
 
-print "this is for team: %s on this day: %s" % (team, curr_game_date)
+# print "this is for team: %s on this day: %s" % (team, curr_game_date)
 # features = master_running_team_dict[team][curr_game_date]["Stats"]
 # print "features from Stats entry"
 # for key, val in features.items():
 #     print "%s,%s" % (key, val)
+
+
+# master_raw_team_dict[team_name][matchup_date]["Info"]["OPPTEAM"]
+
+for team_name in master_running_team_dict:
+    print team_name
+
 
 
 # ______________________________________________________________________________________

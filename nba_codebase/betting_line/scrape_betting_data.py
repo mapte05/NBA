@@ -16,6 +16,22 @@ import re
 
 ODD_NOT_AVAILABLE = "N/A"
 
+# GLOBAL CONSTANTS ----------------------------
+
+# needed for consistency between our team abbreviations and what was found on covers.com
+TEAM_ABBREVIATIONS= {
+					"BK": "BKN",
+					"GS": "GSW",
+					"HOU": "HOU",
+					"NO": "NOP",
+					"NY": "NYK",
+					"PHO": "PHX",
+					"SA": "SAS"
+					}
+
+# ------------------------------------------------
+
+
 
 def getTeamNames(tree):
 	teamNames = tree.xpath('//div[@class="cmg_team_name"]/text()')
@@ -23,6 +39,8 @@ def getTeamNames(tree):
 	for name in teamNames:
 		name = name.strip()
 		if name != "":
+			if name in TEAM_ABBREVIATIONS: # for consistency with team abbreviations
+				name = TEAM_ABBREVIATIONS[name]
 			teamNamesProcessed.append(name)
 	result = []
 	for i in xrange(0, len(teamNamesProcessed), 2):
@@ -93,8 +111,8 @@ if __name__ == '__main__':
 	
 	for team in odds_dict:
 		print team
-		print odds_dict[team]
-		print ""
+		# print odds_dict[team]
+		# print ""
 
 
 
