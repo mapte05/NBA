@@ -111,8 +111,16 @@ if __name__ == '__main__':
 	
 	for team in odds_dict:
 		print team
-		# print odds_dict[team]
-		# print ""
+		print odds_dict[team]
+		print ""
+
+	# for testing, assume GSW -- looks like it works!
+	# dates = odds_dict["GSW"].keys()
+	# dates.sort()
+	# for date in dates:
+	# 	print odds_dict["GSW"][date]
+
+
 
 
 

@@ -34,12 +34,12 @@ MONTHS ={
 
 
 def requestBettingData(date):
-	# parse NOV 08, 2014 format into 2014-08-11
+	# parse NOV 08, 2014 format into year-month-day = 2014-11-08
 	splitDate = date.split()
 	month = MONTHS[splitDate[0]]
 	day = splitDate[1][:-1] # slice off comma
 	year = splitDate[2]
-	urlDate = year + "-" + day + "-" + month
+	urlDate = year + "-" + month + "-" + day
 
 	# make request to html
 	try:

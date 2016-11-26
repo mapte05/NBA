@@ -180,9 +180,12 @@ for team in master_raw_team_dict.keys():
 
 
 # master_raw_team_dict[team_name][matchup_date]["Info"]["OPPTEAM"]
-
-for team_name in master_running_team_dict:
-    print team_name
+# for testing purposes, let's choose GSW, let's test that dates they play are same as odds scraped, and opponents same
+dates = master_raw_team_dict["GSW"].keys()
+dates.sort()
+for matchup_date in dates:
+    print master_raw_team_dict["GSW"][matchup_date]["Info"]["OPPTEAM"]
+    
 
 
 
