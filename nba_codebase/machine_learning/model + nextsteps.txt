@@ -1,0 +1,16 @@
+Model:
+
+We used 4 different algorithms for classification - SVM, Naive Bayes, Random Forest, and a Neural Net Perceptron. 
+
+SVMs envision the data as a point space where multidimensional planes are drawn to separate the data into categorizations. 
+
+Naive bayes is a probabilistic supervised algorithm based on Bayes theorem. It is said to be naive because it makes the assumption that all pairs of features are conditionally independent when conditioned on the possible outcome (So in our case ‘W’ or ‘L’). 
+
+Random forest is a useful algorithm because it is robust to inclusion of potentially irrelevant features, and the randomization of the underlying decision trees allows the algorithm to reduce overfitting.
+
+Multi-layer Perceptron (MLP) is a supervised learning algorithm that learns a function f(\cdot): R^m \rightarrow R^o by training on a dataset, where m is the number of dimensions for input and o is the number of dimensions for output. Given a set of features X = {x_1, x_2, ..., x_m} and a target y, it can learn a non-linear function approximator for either classification or regression. We thought it would be useful in this case because of the in-season element to our problem 
+
+For regression we used SVR and Bayesian Ridge. 
+
+Next Steps:
+Regularization of features, Eliminating counterproductive features through techniques such as RFE, adding domain knowledge about basketball as a prior in our machine learning algorithms
