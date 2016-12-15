@@ -3,10 +3,12 @@ import numpy
 import matplotlib.pyplot as plt
 from sklearn import svm
 from sklearn import linear_model
+from sklearn import preprocessing
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import AdaBoostClassifier
 from sklearn.svm import SVR
 from sklearn.metrics import r2_score
 from sklearn.feature_selection import mutual_info_classif
@@ -32,8 +34,8 @@ class NBAMachineLearning:
         self.data_game_deltas = []
         self.data_matrix_index = 0
         self.inaddmissable_games = 0
-        self.lowerbound = 10
-        self.upperbound = 70
+        self.lowerbound = 2
+        self.upperbound = 4
 
 
     def build_data(self):
@@ -154,18 +156,24 @@ class NBAMachineLearning:
             svr_deltas = svr_rbf.predict(test_matrix)
             brr_deltas = reg.predict(test_matrix)
             for m,models in enumerate([svr_deltas,brr_deltas]):
-                bets_won = 0
+                money_pot = 1
+                bets_won_under = 0
+                bets_won_over = 0
                 num_games = 0
                 for i, pred in enumerate(models):
                     betting_line = self.data_betting_lines[i]
                     actual_score = self.data_game_deltas[i]
                     if pred < betting_line and actual_score < betting_line:
-                        bets_won += 1
+                        bets_won_under += 1
+                        money_pot += .9*money_pot/2.0
                     elif pred > betting_line and actual_score > betting_line:
-                        bets_won += 1
+                        bets_won_over += 1
+                        money_pot += .9*money_pot/2.0
+                    else:
+                        money_pot -= money_pot/2.0
                     num_games += 1
-                print bets_won*1.0/num_games
-                self.scores[m].append(bets_won * 1.0/num_games)
+                    bets_won = bets_won_under + bets_won_over
+                self.scores[m].append((bets_won * 1.0/num_games, money_pot, bets_won_under, bets_won_over))
         return self.scores
 
     def plot_classifier(self):
@@ -187,7 +195,7 @@ class NBAMachineLearning:
         plt.legend()
         plt.plot(range(self.lowerbound, self.upperbound),self.scores[1], label="Bayesian Ridge Regression")
         plt.legend()
-        plt.ylabel('proportion of remaining games we would win if bet made')
+        plt.ylabel('\% of bets won')
         plt.xlabel('threshold values')
         plt.show()
 
@@ -202,5 +210,4 @@ if __name__ == "__main__":
     with open('../betting_line/betting_lines.pickle', 'rb') as pickle_file:
         betting_line_dict = pickle.load(pickle_file)
     nba_class = NBAMachineLearning(master_team_micro_running_dict,master_num_date_map,master_running_team_dict,betting_line_dict)
-    nba_class.run_betting_line_regression()
-    nba_class.plot_regression()
+    print nba_class.run_betting_line_regression()
